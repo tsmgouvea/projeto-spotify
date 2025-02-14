@@ -13,6 +13,7 @@
   "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
+    "deploy": "file:..",
     "express": "^4.21.2",
     "gabarito-da-aula-4": "file:..",
     "mongodb": "^6.13.0",
